@@ -38,7 +38,7 @@ public class Main {
     }
     
     public static void ValiBlob(){
-        
+        int x = 10;
     }
     
 }
