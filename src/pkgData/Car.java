@@ -26,7 +26,9 @@ public class Car {
         setOwner(o);
     }
 
-    
+    public void deleteCar(Car c){
+        //nothing
+    }
 
     public int getFGNr() {
         return FGNr;
